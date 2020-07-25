@@ -1,0 +1,10 @@
+.terminal-container {
+    background-image: url('src/assets/background.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
