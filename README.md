@@ -2,4 +2,4 @@
 
 # fsa-access-terminal
 
-A DnD campaign asset for terminals for the free space alliance
+A UI for a DnD SpellJammer campaign terminal.
